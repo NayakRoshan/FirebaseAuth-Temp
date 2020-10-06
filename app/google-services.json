@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "520625768047",
+    "firebase_url": "https://integrate-authentication.firebaseio.com",
+    "project_id": "integrate-authentication",
+    "storage_bucket": "integrate-authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520625768047:android:e8a4a959a670fc04c0af9a",
+        "android_client_info": {
+          "package_name": "com.example.authapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520625768047-25lrme8d694pjnrfb0l5jknrm31v9ved.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKw1gE0UaUMjGkXAph8U1T7RmS0cdGi7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520625768047-25lrme8d694pjnrfb0l5jknrm31v9ved.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

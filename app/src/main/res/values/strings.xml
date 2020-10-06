@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AuthApplication</string>
+    <string name="sign_out">Sign Out</string>
+
+    <string name="android_client_id">520625768047-toda1icnr0spiske9hjb55e1la94g4bc.apps.googleusercontent.com</string>
+    <string name="web_client_id">520625768047-25lrme8d694pjnrfb0l5jknrm31v9ved.apps.googleusercontent.com</string>
+
+    <string name="facebook_app_id">686583188906286</string>
+    <string name="fb_login_protocol_scheme">fb686583188906286</string>
+
+    <string name="twitter_consumer_key" translatable="false">e4ba1u1PH1TMPZgYuOlnIHeck</string>
+    <string name="twitter_consumer_secret" translatable="false">C2dgA7y8G7RCUyLyURPebwm1I6kvYsWxvoiAGLbmORxu3f2Qv5</string>
+
+    <string name="facebook_sign_in">Sign In With Facebook</string>
+    <string name="twitter_sign_in">Sign In With Twitter</string>
+
+    <string-array name="read_permissions">
+        <item>email</item>
+        <item>public_profile</item>
+    </string-array>
+</resources>
+
